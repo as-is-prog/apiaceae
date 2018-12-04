@@ -1,0 +1,12 @@
+charset,UTF-8
+craftman,noneme
+id,master
+name,master
+type,shell
+craftmanw,noname
+craftmanurl,
+
+sakura.balloon.offsetx,20
+sakura.balloon.offsety,70
+kero.balloon.offsetx,-10
+kero.balloon.offsety,20

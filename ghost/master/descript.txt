@@ -1,0 +1,11 @@
+charset,UTF-8
+
+name,Code22-Repair
+type,ghost
+
+sakura.name,セリカ
+kero.name,ユーザ
+
+sstp.allowunspecifiedsend,1
+
+shiori,yaya.dll
