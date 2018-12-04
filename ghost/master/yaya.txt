@@ -25,20 +25,20 @@ include, lilith_config.txt		// あやりりすライブラリ
 //以下は紺野りりすのテンプレート
 //------------------------------------------------------------------------------
 
-dic, yaya_word.txt			// 単語辞書
-dic, yaya_string.txt		// 文字列リソース辞書
-dic, yaya_aitalk.txt		// ランダムトーク辞書
-dic, yaya_bootend.txt		// 起動/終了トーク辞書
-dic, yaya_change.txt		// 切り替えトーク辞書
-dic, yaya_communicate.txt	// コミュニケート辞書
-dic, yaya_mouse.txt			// マウス入力関連辞書
-dic, yaya_menu.txt			// メニュー処理辞書
-dic, yaya_etc.txt			// 種々のイベント辞書
+dic, dic_word.yaya			// 単語辞書
+dic, dic_string.yaya		// 文字列リソース辞書
+dic, dic_aitalk.yaya		// ランダムトーク辞書
+dic, dic_bootend.yaya		// 起動/終了トーク辞書
+dic, dic_change.yaya		// 切り替えトーク辞書
+dic, dic_communicate.yaya	// コミュニケート辞書
+dic, dic_mouse.yaya			// マウス入力関連辞書
+dic, dic_menu.yaya			// メニュー処理辞書
+dic, dic_etc.yaya			// 種々のイベント辞書
 
 //------------------------------------------------------------------------------
 //追加辞書
 //------------------------------------------------------------------------------
-//dic, yaya_spboot.dic        // 起動時特殊トーク用辞書
+//dic, dic_spboot.yaya        // 起動時特殊トーク用辞書
 
 //------------------------------------------------------------------------------
 //セーブファイル暗号化
