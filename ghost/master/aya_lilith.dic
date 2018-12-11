@@ -1524,7 +1524,7 @@ AYL_OnBoot
 	// 起動時の特殊イベント呼び出し処理追加
 
 	_retScript = EVAL('Code22_起動時イベント呼び出し')
-	if STRLEN(_retScript) != 0 {
+	if _retScript {
 		DelayedTalkEval(_retScript)
 	} else {
 		DelayedTalkEval(BootCloseEx('起動'))
