@@ -1,4 +1,4 @@
-file,developer_options.txt3d0c48f6043c3c78fc6e6a7a10b46f9dsize=75
+file,developer_options.txt7d517898b7fc5e796e859b576d2eacadsize=160
 file,ghost/master/aya_lilith.dicb309a6403f55908ec049cd1f2667bdc8size=60016
 file,ghost/master/aya_lilith_config.dic0170e638b2b83d882ccb3e180d2ba93bsize=2231
 file,ghost/master/aya_lilith_ex.dic17e38eaded69938a2166d80e34d2924bsize=20970
@@ -9,6 +9,7 @@ file,ghost/master/dic_bootend.yaya47b6b23dfa5adb29f2acdaa3799c41ebsize=8509
 file,ghost/master/dic_change.yaya4303cb9bef0aea5d2bcc16b8cdce1cf4size=2084
 file,ghost/master/dic_communicate.yayaf3c84cba9619e6bc5b13e4cfe7eda285size=3934
 file,ghost/master/dic_etc.yaya7ec5d337e40b226c10f656849a1eecfasize=19625
+file,ghost/master/dic_gips.yaya1b7c9dd8c1fd61e0929ae3054ab1bf31size=958
 file,ghost/master/dic_menu.yaya3c04cacb22960f5770013cc7ade80438size=4853
 file,ghost/master/dic_mouse.yaya5f7f0fc00a8046f70de663a3ba5b4dadsize=9655
 file,ghost/master/dic_satolist.yaya213f022a5dfb319777eabaa17b6cbf13size=883
@@ -21,7 +22,7 @@ file,ghost/master/system/yaya_optional.dice1ba43b83f98bfdb6e9901b09480e586size
 file,ghost/master/system/yaya_shiori3.dice02440445a8a07ff06f950cebc53fb18size=46517
 file,ghost/master/system_config.txt89865de3fcaca6f343202498fcaa756fsize=889
 file,ghost/master/yaya.dll60a60e0880258d39c1132455b747e88dsize=335872
-file,ghost/master/yaya.txtcd891b7c1dd9c405da3103a250a3b426size=2522
+file,ghost/master/yaya.txtb956409e648fb59d4fd0c2c27c8d8146size=2575
 file,ghost/master/yaya_config.txt7b7aab507dbbdd7152fd713ed155aa6dsize=3873
 file,install.txtbca999cd5d89e9c49fa08d0745810af5size=67
 file,readme.txt7583a213775ac36898c7b77e36e5d709size=3085

@@ -1,0 +1,34 @@
+//--------------------------------------
+// GIPSイベント用辞書
+//--------------------------------------
+
+OnGIPSStart
+{
+  _lang = reference[0]
+  _type = reference[1]
+
+  if (programmer == 1) {
+    '作業を始めるんですね。\e'
+  } else {
+    <<"
+    せりか００：これは……旧世代のプログラム開発環境……？\n（ユーザ）はいったい何者なんですか……？
+    せりか００：\n[half]……でも、%(_lang)なら少しはお役に立てるかもしれません。\e
+    ">>
+    programmer = 1
+  }
+}
+
+
+OnGIPSExceptionOccurred
+{
+  _langName = reference[0]
+  _exceptionName = reference[1]
+  _fileName = reference[2]
+  _lineAt = reference[3]
+
+  "%(_fileName)の%(_lineAt)行目で%(_exceptionName)の発生を確認しました。\n"
+  --
+  "残念ですが、この例外のアドバイスは記録されていないため提示できません。"
+
+  satolist_modify = 0
+}
