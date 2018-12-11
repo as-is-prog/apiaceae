@@ -15,7 +15,7 @@ OpenMenu
 	せりか００：なんですか？
 	＠半分メニュー：耳を傾ける｜Menu_AITALK
 	＠半分メニュー【STRLEN(SHIORI3FW.LastAITalk) > 0】：さっきの話をもう一度｜Menu_LASTTALK
-	＠半分メニュー：発話間隔の調整｜Menu_TALKINTERVAL
+	＠半分メニュー：発話間隔を調整｜Menu_TALKINTERVAL
 	＠半分メニュー：ネットワーク更新｜Menu_UPDATE
 	＠半分メニュー【0 == 1】：話しかけてみる｜Menu_USERCOMSTART
 	＠半分メニュー【0 == 1】：他のゴーストと話す｜Menu_GHOSTCOMSTART
