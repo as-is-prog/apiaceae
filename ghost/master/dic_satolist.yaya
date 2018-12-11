@@ -1,0 +1,44 @@
+//--------------------------------------
+// さとりすとイベント用辞書
+//--------------------------------------
+
+OnSatolistBoot
+{
+  if (satolister == 1) {
+    '作業を始めるんですね。\e'
+  } else {
+    <<"
+    せりか００：これは……AI構築用のプログラム……？（ユーザ）はいったい何者なんですか……？\e
+    ">>
+    satolister = 1
+  }
+}
+
+
+OnSatolistGhostOpened
+{
+  _sakuraName = reference[0]
+  _ghostName = reference[1]
+
+  "%(_sakuraName)のAIを構築するんですね。\e"
+
+  satolist_modify = 0
+}
+
+OnSatolistSaved
+{
+  satolist_modify = 1
+
+  "データの保存を確認しました。\e"
+}
+
+OnSatolistClosed
+{
+  if (satolist_modify == 0) {
+    "作業、お疲れさまです。\e"
+  }
+  elseif (satolist_modify == 1)
+  {
+    "更新作業、お疲れさまです。\e"
+  }
+}
