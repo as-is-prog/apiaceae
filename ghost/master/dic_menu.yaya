@@ -38,7 +38,7 @@ OnChoiceTimeout
 
 Menu_UPDATE
 {
-	\![updatebymyself]
+	"\![updatebymyself]"
 }
 
 //---- 何か話して
