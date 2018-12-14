@@ -1,5 +1,6 @@
 .git/,nonar,noupdate
 .gitignore,nonar,noupdate
+.gitmodules,nonar,noupdate
 README.md,nonar,noupdate
 ghost/master/yaya_ssp_debug.log,nonar,noupdate
 ghost/master/ayame.log,nonar,noupdate
