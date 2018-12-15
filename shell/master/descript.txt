@@ -1,5 +1,5 @@
 charset,UTF-8
-craftman,noneme
+craftman,noname
 id,master
 name,master
 type,shell
