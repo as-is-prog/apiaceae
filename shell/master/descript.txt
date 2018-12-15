@@ -1,7 +1,7 @@
 charset,UTF-8
 craftman,noname
 id,master
-name,master
+name,actual
 type,shell
 craftmanw,noname
 craftmanurl,

@@ -1,21 +1,21 @@
 Code-22E BootSequence.........
 
-# ERROR!! ï¿½fï¿½oï¿½Cï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B
-ArmL -> C22-ArmL - ï¿½ï¿½ï¿½rï¿½ï¿½ï¿½}ï¿½jï¿½ï¿½ï¿½sï¿½ï¿½ï¿½[ï¿½^
-ArmR -> C22-ArmR - ï¿½Eï¿½rï¿½ï¿½ï¿½}ï¿½jï¿½ï¿½ï¿½sï¿½ï¿½ï¿½[ï¿½^
-HairL -> C22-HeadSensorL - ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½eï¿½iï¿½^ï¿½Zï¿½ï¿½ï¿½Tï¿½[
-HairR -> C22-HeadSensorR - ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½eï¿½iï¿½^ï¿½Zï¿½ï¿½ï¿½Tï¿½[
+# ERROR!! ƒfƒoƒCƒX‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB
+ArmL -> C22-ArmL - ¶˜r•”ƒ}ƒjƒ…ƒsƒŒ[ƒ^
+ArmR -> C22-ArmR - ‰E˜r•”ƒ}ƒjƒ…ƒsƒŒ[ƒ^
+HairL -> C22-HeadSensorL - “ª•”ƒAƒ“ƒeƒiŒ^ƒZƒ“ƒT[
+HairR -> C22-HeadSensorR - “ª•”ƒAƒ“ƒeƒiŒ^ƒZƒ“ƒT[
 
-# ERROR!! ï¿½ñƒï¿½ï¿½fï¿½oï¿½Cï¿½Xï¿½ï¿½ï¿½Ú‘ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B
-ArmL -> GAA220L(S) - ï¿½Ä—pï¿½`ï¿½è¶(ï¿½ï¿½ï¿½^)
-ArmR -> GAA220R(S) - ï¿½Ä—pï¿½`ï¿½ï¿½E(ï¿½ï¿½ï¿½^)
-EarL -> GHHS13L - ï¿½ï¿½ï¿½ï¿½ï¿½Ú‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½Zï¿½ï¿½ï¿½Tï¿½[
-EarR -> GHHS13R - ï¿½ï¿½ï¿½ï¿½ï¿½Ú‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½Zï¿½ï¿½ï¿½Tï¿½[
-Network -> [ï¿½^ï¿½ÔŽæ“¾ï¿½sï¿½ï¿½] - ï¿½^ï¿½Ô•sï¿½ï¿½ï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä—pï¿½Rï¿½ï¿½ï¿½sï¿½ï¿½ï¿½[ï¿½^ï¿½Æï¿½ï¿½ï¿½
+# ERROR!! ”ñƒ³ƒfƒoƒCƒX‚ªÚ‘±‚³‚ê‚Ä‚¢‚Ü‚·B
+ArmL -> GAA220L(S) - ”Ä—p‹`Žè¶(¬Œ^)
+ArmR -> GAA220R(S) - ”Ä—p‹`Žè‰E(¬Œ^)
+EarL -> GHHS13L - “ª•”Ú‘±‚Š´“xƒZƒ“ƒT[
+EarR -> GHHS13R - “ª•”Ú‘±‚Š´“xƒZƒ“ƒT[
+Network -> [Œ^”ÔŽæ“¾•s‰Â] - Œ^”Ô•s–¾F‹Œ¢‘ã”Ä—pƒRƒ“ƒsƒ…[ƒ^‚Æ„‘ª
 
 ===============================================================
 
-ï¿½ï¿½ï¿½ÌƒVï¿½Fï¿½ï¿½ï¿½ÍƒLï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½^ï¿½[ï¿½È‚ï¿½Æ‚ï¿½ï¿½@ - http://khmix.sakura.ne.jp/ ï¿½É‚ï¿½ï¿½ï¿½ï¿½
-ï¿½aï¿½ÌZï¿½Þ–ï¿½ ï¿½l - http://seizonkakuninbasyo.web.fc2.com/
-ï¿½ÌƒLï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½^ï¿½[ï¿½È‚ï¿½Æ‚ï¿½ï¿½@ï¿½pï¿½Ç‰ï¿½ï¿½pï¿½[ï¿½cï¿½Aï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Zï¿½bï¿½gï¿½vï¿½ï¿½pï¿½ï¿½ï¿½Äï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B
-ï¿½ï¿½ï¿½ÓB
+‚±‚ÌƒVƒFƒ‹‚ÍƒLƒƒƒ‰ƒNƒ^[‚È‚ñ‚Æ‚©‹@ - http://khmix.sakura.ne.jp/ ‚É‚æ‚Á‚Ä
+‹a‚ÌZ‚Þ–Ø —l - http://seizonkakuninbasyo.web.fc2.com/
+‚ÌƒLƒƒƒ‰ƒNƒ^[‚È‚ñ‚Æ‚©‹@—p’Ç‰Áƒp[ƒcAu­—ƒZƒbƒgv‚ð—p‚¢‚Äì‚ç‚ê‚Ü‚µ‚½B
+Š´ŽÓB
