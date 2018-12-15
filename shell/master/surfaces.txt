@@ -5,15 +5,18 @@ descript
 	version,1
 }
 
+sakura.cursor
+{
+	mouseup0,Head,system:hand
+	mousedown0,Head,system:hand
+}
+
 surface0
 {
 	element0,base,surface0.png,0,0
 }
 
-surface9
-{
-	element0,base,surface9.png,0,0
-}
+// アニメーション用
 
 surface1000
 {
@@ -33,6 +36,19 @@ surface.append0
 	animation0.pattern2,overlay,1000,50,0,0
 	animation0.pattern3,overlay,-1,50,0,0
 }
+
+// ここから当たり判定
+
+surface.append0-9
+{
+	collision0,115,21,183,58,TopHair
+	collision1,117,58,194,99,Head
+	collision2,174,120,195,140,Ear
+	collision3,97,205,161,243,Bust
+	collision4,179,364,211,426,Hand
+}
+
+// ここから\1側
 
 surface10
 {
