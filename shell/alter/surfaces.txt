@@ -1,0 +1,35 @@
+﻿charset,UTF-8
+
+descript
+{
+	version,1
+}
+
+surface0
+{
+	element0,base,surface0.png,0,0
+}
+
+surface1000
+{
+	element0,base,code22_blink1.png,0,0
+}
+
+surface1001
+{
+	element0,base,code22_blink2.png,0,0
+}
+
+surface.append0
+{
+	animation0.interval,periodic,5
+	animation0.pattern0,overlay,1000,50,0,0
+	animation0.pattern1,overlay,1001,50,0,0
+	animation0.pattern2,overlay,1000,50,0,0
+	animation0.pattern3,overlay,-1,50,0,0
+}
+
+surface10
+{
+	element0,base,surface10.png,0,0
+}

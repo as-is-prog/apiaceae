@@ -1,7 +1,7 @@
-charset,UTF-8
+﻿charset,UTF-8
 craftman,noname
-id,master
-name,actual
+id,experimental
+name,experimental
 type,shell
 craftmanw,noname
 craftmanurl,
@@ -19,15 +19,15 @@ menu.background.alignment,lefttop
 menu.foreground.alignment,lefttop
 menu.sidebar.alignment,bottom
 
-menu.background.font.color.r,0
-menu.background.font.color.g,0
-menu.background.font.color.b,0
-menu.foreground.font.color.r,200
+menu.background.font.color.r,255
+menu.background.font.color.g,255
+menu.background.font.color.b,255
+menu.foreground.font.color.r,255
 menu.foreground.font.color.g,200
-menu.foreground.font.color.b,255
-menu.separator.color.r,100
+menu.foreground.font.color.b,200
+menu.separator.color.r,255
 menu.separator.color.g,100
-menu.separator.color.b,255
+menu.separator.color.b,100
 menu.disable.font.color.200
 menu.disable.font.color.200
 menu.disable.font.color.200
