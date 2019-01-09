@@ -17,7 +17,7 @@ OpenMenu
 	＠半分メニュー【STRLEN(SHIORI3FW.LastAITalk) > 0】：さっきの話をもう一度｜Menu_LASTTALK
 	＠半分メニュー：発話間隔を調整｜Menu_TALKINTERVAL
 	＠半分メニュー：ネットワーク更新｜Menu_UPDATE
-	＠半分メニュー【0 == 1】：話しかけてみる｜Menu_USERCOMSTART
+	＠半分メニュー【起動日数 >= 3】：標準入出力を接続｜Menu_USERCOMSTART
 	＠半分メニュー【0 == 1】：他のゴーストと話す｜Menu_GHOSTCOMSTART
 	＠改行多めメニュー：なんでもない｜Menu_CANCEL
 	">>
@@ -134,7 +134,7 @@ Menu_GHOSTCOMSTART
 Menu_USERCOMSTART
 {
 	<<"
-	せりか００：なんですか？\![open,communicatebox]
+	せりか００：返答できる内容に限りはありますけど。\![open,communicatebox]
 	">>
 }
 
