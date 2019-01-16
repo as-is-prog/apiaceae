@@ -25,10 +25,15 @@ OnGIPSExceptionOccurred
   _exceptionName = reference[1]
   _fileName = reference[2]
   _lineAt = reference[3]
+  _advice = EVAL("%(_exceptionName)_Occurred")
 
-  "%(_fileName)の%(_lineAt)行目で%(_exceptionName)の発生を確認しました。\n"
+  "%(_fileName)の%(_lineAt)行目で\n%(_exceptionName)\nの発生を確認しました。\n\n[half]"
   --
-  "残念ですが、この例外のアドバイスは記録されていないため提示できません。"
+  if (_advice) {
+    _advice
+  } else {
+    "残念ですが、この例外のアドバイスは記録されていないため提示できません。"
+  }
 
   satolist_modify = 0
 }

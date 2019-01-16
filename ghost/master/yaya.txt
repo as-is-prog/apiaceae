@@ -42,6 +42,7 @@ dic, story/dic_event1.yaya  // 初回起動時イベント
 dic, dic_spboot.yaya        // 起動時特殊トーク用辞書
 dic, dic_satolist.yaya        // さとりすとイベント辞書
 dic, dic_gips.yaya        // GIPSイベント辞書
+dic, gipsdic/dic_gips_java.yaya //GIPSアドバイス辞書(Java)
 
 //------------------------------------------------------------------------------
 //セーブファイル暗号化
