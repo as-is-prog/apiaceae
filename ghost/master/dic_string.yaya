@@ -17,7 +17,7 @@ On_username
 //------------------------------------------------------------------------------
 On_homeurl
 {
-	"http://ghinpasy.fragment.server-on.net/update/apiaceae/"
+	"https://raw.githubusercontent.com/as-is-prog/apiaceae/master/"
 }
 
 //------------------------------------------------------------------------------
@@ -34,13 +34,13 @@ On_portalrootbutton.caption
 ポータルサイト
 {
 	<<"
-	SSP BUGTRAQ      | http://ssp.shillest.net/         | 
-	整備班           | http://ms.shillest.net/          | 
-	あやりりすEX     | http://emily.shillest.net/ayaya/index.php?%E3%83%88%E3%83%BC%E3%82%AF%E3%81%B9%E3%81%9F%E6%9B%B8%E3%81%8D%E6%94%AF%E6%8F%B4%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA         | 
+	SSP BUGTRAQ      | http://ssp.shillest.net/         |
+	整備班           | http://ms.shillest.net/          |
+	あやりりすEX     | http://emily.shillest.net/ayaya/index.php?%E3%83%88%E3%83%BC%E3%82%AF%E3%81%B9%E3%81%9F%E6%9B%B8%E3%81%8D%E6%94%AF%E6%8F%B4%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA         |
 	-              |"
-	GHOST/BALLOON TOWN | http://ghosttown.mikage.jp/            | 
-	Disc-2+Sidebar | http://navi.sakuraweb.com/            | 
-	SiReFaSo | http://sirefaso.appspot.com/            | 
+	GHOST/BALLOON TOWN | http://ghosttown.mikage.jp/            |
+	Disc-2+Sidebar | http://navi.sakuraweb.com/            |
+	SiReFaSo | http://sirefaso.appspot.com/            |
 	-              |"
 	">>
 }
@@ -75,11 +75,11 @@ On_recommendrootbutton.caption
 おすすめ0
 {
 	<<"
-	文屋                   | http://emily.shillest.net/ayaya/            | 
-	Disc-2 ゴースト制作    | http://disc2.s56.xrea.com/manual/            | 
-	CROW・SSPリファレンス  | http://crow.aqrs.jp/reference/all/            | 
-	大八洲.NET データベース| http://www.ooyashima.net/db/            | 
-	駄でべろぱの小ネタWiki | http://emily.nanika.jp/specwiki/            | 
+	文屋                   | http://emily.shillest.net/ayaya/            |
+	Disc-2 ゴースト制作    | http://disc2.s56.xrea.com/manual/            |
+	CROW・SSPリファレンス  | http://crow.aqrs.jp/reference/all/            |
+	大八洲.NET データベース| http://www.ooyashima.net/db/            |
+	駄でべろぱの小ネタWiki | http://emily.nanika.jp/specwiki/            |
 	">>
 }
 
@@ -97,9 +97,9 @@ On_kero.recommendbuttoncaption
 おすすめ1
 {
 	<<"
-	Yet Another AYA     | http://code.google.com/p/yaya-shiori/ | 
-	里々/整備班カスタム | http://code.google.com/p/satoriya-shiori/ | 
-	華和梨              | http://kawari.sourceforge.net/            | 
+	Yet Another AYA     | http://code.google.com/p/yaya-shiori/ |
+	里々/整備班カスタム | http://code.google.com/p/satoriya-shiori/ |
+	華和梨              | http://kawari.sourceforge.net/            |
 	">>
 }
 
