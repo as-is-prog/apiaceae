@@ -563,7 +563,7 @@ SNTPCompare_StrForm
 OnSNTPCompare
 {
 	<<"
-	せりか０５：実行、終わりました。
+	せりか００：実行、終わりました。
 	＠設定：クイックセクション
 	せりか：修正前 %(SNTPCompare_StrForm(reference[2]))
 	せりか：修正後 %(SNTPCompare_StrForm(reference[1]))
