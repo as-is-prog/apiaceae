@@ -1,0 +1,16 @@
+//--------------------------------------
+// Ukagaka Web Browsing用辞書
+//--------------------------------------
+
+OnUWBShowPageInfo
+{
+  _pageTitle = reference[0]
+  _pageURL = reference[1]
+
+  "「%(_pageTitle)」を見ているんですね。URLは「%(_pageURL)」ですか。\e"
+}
+
+ExternalEvent.OnUWBShowPageInfo
+{
+    OnUWBShowPageInfo()
+}

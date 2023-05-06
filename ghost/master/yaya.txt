@@ -30,6 +30,7 @@ dic, dic_spboot.yaya        // 起動時特殊トーク用辞書
 dic, season/dic_winter.yaya // 季節トーク冬
 dic, dic_satolist.yaya        // さとりすとイベント辞書
 dic, dic_gips.yaya        // GIPSイベント辞書
+dic, dic_web_browse.yaya  // Ukagaka Web Browsingイベント辞書
 dic, gipsdic/dic_gips_java.yaya //GIPSアドバイス辞書(Java)
 
 //------------------------------------------------------------------------------
