@@ -15,7 +15,7 @@ file,ghost/master/dic_mouse.yaya7e18657958a08c46593b8eed4d5a0638size=7282date
 file,ghost/master/dic_satolist.yaya213f022a5dfb319777eabaa17b6cbf13size=883date=2023-05-06T17:07:29
 file,ghost/master/dic_spboot.yaya62c6c999ad59109c17efbea6bcb46687size=166date=2023-05-06T17:07:29
 file,ghost/master/dic_string.yaya16080ec086171bc67d4376b43ec017absize=5104date=2023-05-06T17:07:29
-file,ghost/master/dic_web_browse.yaya656ce53087e29fe9e75e6e58995f6bd4size=345date=2023-05-06T17:19:22
+file,ghost/master/dic_web_browse.yaya63895eae8ac3b9ae61fb18f95fcd491dsize=361date=2023-05-06T17:22:46
 file,ghost/master/dic_word.yayab6c5612a7df963a43e7c7876aa9a4eaesize=7548date=2023-05-06T17:07:29
 file,ghost/master/gipsdic/dic_gips_java.yaya3b29b0a70602c1147e6ac71ddd18b4e1size=3614date=2023-05-06T17:07:29
 file,ghost/master/lilith_config.txt07b53e87d58aefc1604ffdeb9b72d3cdsize=536date=2023-05-06T17:07:29
